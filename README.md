@@ -1,1 +1,41 @@
-Hello
+# 👋 Hi, I'm Debit Maharjan
+
+I'm a Programmer & Software Developer based in Kathmandu, Nepal with professional experience in software engineering and application development.
+
+---
+
+## 🚀 About Me
+I'm passionate about building efficient and scalable software solutions, improving workflows, and using modern technology stacks to solve practical problems. I enjoy mastering both backend and frontend challenges while prioritizing clean, maintainable code.
+
+- 🌱 Always learning and exploring new tools, frameworks, and best practices in software development.
+
+---
+
+## 🛠️ Skills
+
+### 💻 Programming & Development
+- Backend: Delphi, Laravel
+- Frontend: React
+- API design & RESTful services
+
+### 📊 Tools & Technologies
+- Git & GitHub
+- PostgreSQL, Oracle
+- VS Code / IDEs
+
+### 🧠 Software Practices
+- Version control
+- Clean & modular code
+- Problem solving & debugging
+- Unit testing / automation
+
+---
+
+## 📫 Connect with Me
+
+- 🔗 LinkedIn: https://www.linkedin.com/in/debit-maharjan-15513690/  
+- 📧 Email: debitmaharjan12@gmail.com
+
+---
+
+💬 Feel free to reach out if you want to collaborate, discuss programming, or explore developer opportunities!
