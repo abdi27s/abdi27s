@@ -5,7 +5,6 @@ I'm a Programmer & Software Developer based in Kathmandu, Nepal with professiona
 ---
 
 ## 🚀 About Me
-I'm passionate about building efficient and scalable software solutions, improving workflows, and using modern technology stacks to solve practical problems. I enjoy mastering both backend and frontend challenges while prioritizing clean, maintainable code.
 Backend Software Engineer with 3+ years of professional experience developing and maintaining enterprise backend systems in healthcare and inventory domains. Strong background in backend business logic, database-driven applications, reporting systems, and system 
 integration using Delphi, Oracle, and PostgreSQL. Hands-on experience building RESTful APIs with Laravel and currently expanding expertise in Python for modern backend development. Proven experience delivering production systems used in hospitals and pharmacies across 
 Nepal.
