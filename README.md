@@ -16,13 +16,13 @@ Nepal.
 ## 🛠️ Skills
 
 ### 💻 Programming & Development
-- Backend: Delphi, Laravel
-- Frontend: React
+- Backend: Delphi, Laravel, Node.js, Python
+- Frontend: React, Next.js
 - API design & RESTful services
 
 ### 📊 Tools & Technologies
 - Git & GitHub
-- PostgreSQL, Oracle
+- PostgreSQL, Oracle, Mongo
 - VS Code / IDEs
 
 ### 🧠 Software Practices
