@@ -23,7 +23,7 @@ Nepal.
 ### 📊 Tools & Technologies
 - Git & GitHub
 - PostgreSQL, Oracle, Mongo
-- VS Code / IDEs
+- VS Code, Postman, Insomnia, Dbeaver
 
 ### 🧠 Software Practices
 - Version control
